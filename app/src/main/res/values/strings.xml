@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BookRU</string>
+    <string-array name="campuses">
+        <item>Busch</item>
+        <item>Livingston</item>
+        <item>College Avenue</item>
+        <item>Cook</item>
+        <item>Douglass</item>
+    </string-array>
 </resources>
