@@ -6,7 +6,7 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/123"
+        android:id="@+id/maintitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="BookRU"
@@ -35,7 +35,7 @@
         android:textSize="20dp"
         app:layout_constraintBottom_toTopOf="@+id/spinner1"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/123"
+        app:layout_constraintTop_toBottomOf="@+id/maintitle"
         app:layout_constraintVertical_bias="0.557" />
 
     <TextView
@@ -58,7 +58,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/123"
+        app:layout_constraintTop_toBottomOf="@+id/maintitle"
         app:layout_constraintVertical_bias="0.83" />
 
     <Button
@@ -69,7 +69,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/123"
+        app:layout_constraintTop_toBottomOf="@+id/maintitle"
         app:layout_constraintVertical_bias="0.973" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
