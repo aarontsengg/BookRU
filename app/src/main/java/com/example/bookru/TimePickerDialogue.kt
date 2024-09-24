@@ -1,6 +1,9 @@
 package com.example.bookru
 
 class TimePickerDialogue {
+    // basically if both are set, then do a search?
+    // also when a start button is set, change the text on the button to the time selected
+    // something we have to ask later
     // basically this is the code we will have to use https://stackoverflow.com/questions/11837581/how-to-make-the-timepicker-smaller
     // make it a dialogue instead of have it natively
     /*Button setTime;
